@@ -7,7 +7,7 @@ I build AI agents and automations for IT operations. Previously a ServiceNow ITO
 
 ## Featured projects
 
-- **Certificate Expiry Watcher** — a daily Workato + ServiceNow check that warns the team on Slack before certificates expire, with a duplicate-guard so no certificate ever creates the same ticket twice. Tested end to end.
+- **Certificate Expiry Watcher** — a daily Workato + ServiceNow check that warns the team on Slack before certificates expire, with a duplicate-guard so no certificate ever creates the same ticket twice. Tested end to end: [github.com/patiki/certificate-expiry-watcher](https://github.com/patiki/certificate-expiry-watcher)
 - **Salon After-Hours Lead Responder** — a Workato recipe that answers after-hours customer messages for a salon, extracts the lead details with AI, and logs them to a sheet: [github.com/patiki/salon-after-hours-lead-responder](https://github.com/patiki/salon-after-hours-lead-responder)
 
 ## Certifications
